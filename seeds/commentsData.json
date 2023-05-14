@@ -1,0 +1,17 @@
+[
+    {
+      "content": "Great post! Thanks for sharing.",
+      "creator_id": 2,
+      "post_id": 1
+    },
+    {
+      "content": "I have a question. Can you please clarify?",
+      "creator_id": 3,
+      "post_id": 1
+    },
+    {
+      "content": "Nice job! Keep up the good work.",
+      "creator_id": 1,
+      "post_id": 2
+    }
+  ]
