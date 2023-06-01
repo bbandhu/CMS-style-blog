@@ -1,0 +1,17 @@
+[
+    {
+      "title": "First Blog Post",
+      "contents": "This is the content of the first blog post.",
+      "creator_id": 1
+    },
+    {
+      "title": "Second Blog Post",
+      "contents": "This is the content of the second blog post.",
+      "creator_id": 2
+    },
+    {
+      "title": "Third Blog Post",
+      "contents": "This is the content of the third blog post.",
+      "creator_id": 1
+    }
+  ]
