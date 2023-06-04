@@ -5,11 +5,13 @@ class Comments extends Model {}
 
 Comments.init(
   {
-    id: {
+    creator_id: {
       type: DataTypes.INTEGER,
       allowNull: false,
-      primaryKey: true,
-      autoIncrement: true,
+      references: {
+        model: 'user',
+        key: 'id',
+      },
     },
     content: {
       type: DataTypes.TEXT,
@@ -32,7 +34,7 @@ Comments.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       references: {
-        model: 'blog_post',
+        model: 'blog_postings',
         key: 'id',
       },
     },

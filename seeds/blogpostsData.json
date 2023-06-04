@@ -1,17 +1,54 @@
 [
-    {
-      "title": "First Blog Post",
-      "contents": "This is the content of the first blog post.",
-      "creator_id": 1
-    },
-    {
-      "title": "Second Blog Post",
-      "contents": "This is the content of the second blog post.",
-      "creator_id": 2
-    },
-    {
-      "title": "Third Blog Post",
-      "contents": "This is the content of the third blog post.",
-      "creator_id": 1
-    }
-  ]
+  {
+    "id": "a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11",
+    "title": "The rise of AI in our daily lives",
+    "contents": "Artificial Intelligence (AI) is increasingly becoming a part of our everyday lives. From recommendation systems on streaming platforms to virtual assistants on our smartphones, AI has a big role to play...",
+    "created_at": "2023-06-02T10:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "4b6cff65-2d53-4ac3-a099-5485476385c9",
+    "title": "The future of Quantum Computing",
+    "contents": "Quantum computing, a technology that's still in its early phases, is one of the most fascinating developments in the tech world. With the potential to process information at a significantly higher speed than traditional computing, quantum computers may be a game-changer...",
+    "created_at": "2023-06-01T16:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "89aa63d7-5a23-4d26-b885-1017579db8c5",
+    "title": "Cybersecurity in the age of IoT",
+    "contents": "As the Internet of Things (IoT) continues to expand, so does the security risk associated with the Internet-connected devices. As a consequence, cybersecurity measures need to be robust enough to protect massive amounts of data circulating in these networks...",
+    "created_at": "2023-05-31T10:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "b2d7fd5a-d2f9-4e7f-9a6c-171ec3e5f546",
+    "title": "The Role of Machine Learning in Health Care",
+    "contents": "Machine learning is a technology that has the potential to revolutionize the healthcare industry. By predicting patient outcomes, improving diagnostic accuracy, and personalizing treatment plans, machine learning can significantly improve patient care...",
+    "created_at": "2023-06-05T14:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "f05d77b8-10ab-4ee1-b5e8-e3f83048d2cd",
+    "title": "Virtual Reality: A Game Changer for Training",
+    "contents": "Virtual Reality (VR) has started making its presence felt in the training and education sector. By creating immersive, realistic simulations, VR can provide a more engaging and effective learning experience...",
+    "created_at": "2023-06-07T10:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "da905a2b-c2e8-44b1-a449-c8a88c566cc0",
+    "title": "Blockchain beyond cryptocurrencies",
+    "contents": "While cryptocurrencies like Bitcoin are the most famous application of blockchain technology, they are far from being its only use. Blockchain's decentralized and transparent nature can bring numerous benefits to a variety of sectors like supply chain management, healthcare, and more...",
+    "created_at": "2023-06-10T10:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  },
+  {
+    "id": "c07a8453-b48d-48e6-bfcd-493a5543a2df",
+    "title": "The impact of 5G on IoT",
+    "contents": "The introduction of 5G network technology may significantly accelerate the growth of the Internet of Things (IoT). With its higher speed and lower latency, 5G can enhance the capabilities of IoT devices and allow more innovative applications...",
+    "created_at": "2023-06-12T10:00:00.000Z",
+    "creator_id": "4bca2a83-e868-4b28-81f6-aed25f468a24"
+  }
+
+
+
+]
